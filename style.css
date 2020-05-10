@@ -72,7 +72,7 @@ body
 {
   /*Has to be more than the amount of layers*/
   perspective: 15px;
-  
+	
   width: 100%;
   animation: stars 4s linear infinite;
   opacity: 0.8;
