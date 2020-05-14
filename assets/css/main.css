@@ -7,20 +7,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-
-.tuna {
-  animation: walk-cycle 1s steps(12) infinite;
-  background: url(http://stash.rachelnabors.com/img/codepen/tuna_sprite.png) 0 0 no-repeat; 
-  height: 200px;
-  width: 400px;
-  margin: 0px auto 0;
-}
-
-@keyframes walk-cycle {  
-  0% {background-position: 0 0; } 
-  100% {background-position: 0 -2391px; } /* Must be full height of sprite or skipping will happen.*/
-}
-
 p {text-align: center;}
 
 html, body, div, span, applet, object,
